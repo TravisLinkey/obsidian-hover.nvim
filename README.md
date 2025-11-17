@@ -49,7 +49,7 @@ use({
 
 1. Clone this repository into your Neovim config:
    ```bash
-   git clone https://github.com/your-username/obsidian-hover.nvim.git ~/.config/nvim/lua/obsidian-hover
+   git clone https://github.com/TravisLinkey/obsidian-hover.nvim ~/.config/nvim/lua/obsidian-hover
    ```
 
 2. Add to your `init.lua`:
